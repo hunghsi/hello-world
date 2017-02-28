@@ -1,2 +1,2 @@
 # hello-world
-The git hub hello world tutorial
+hello-world repository is just following the git hub Get Started tutorial.
